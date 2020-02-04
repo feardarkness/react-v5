@@ -1,0 +1,10 @@
+node_modules/
+
+# Just 4 MAC
+.DS_Dstore
+
+.cache/
+dist/
+coverage/
+.vscode/
+.env
